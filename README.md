@@ -16,5 +16,23 @@ This repository demonstrates how to:
 4. **Train** a Logistic Regression classifier to predict Win/Loss.  
 5. **Evaluate** model performance across seasons and lineups.
 
+## 🔧 Installation
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/your-username/nba-prediction.git
+   cd nba-prediction
+
+2. **Create and activate a virtual environment** (optional but recommended)
+   ```bash
+   # macOS / Linux
+    python3 -m venv venv
+    source venv/bin/activate
+
+2. **Install project dependencies** 
+   ```bash
+    pip install -r requirements.txt
+
+
 
 
