@@ -1,6 +1,6 @@
 # NBA Game Outcome Prediction
 
-**By Tom Fluzin**
+**By toommttom**
 
 A Python-based machine-learning project that predicts NBA game outcomes (win or loss) using team box-score statistics from the 2022–2023 and 2023–2024 seasons.
 
