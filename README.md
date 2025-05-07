@@ -6,7 +6,7 @@ A Python-based machine-learning project that predicts NBA game outcomes (win or 
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This repository demonstrates how to:
 
@@ -16,7 +16,7 @@ This repository demonstrates how to:
 4. **Train** a Logistic Regression classifier to predict Win/Loss.  
 5. **Evaluate** model performance across seasons and lineups.
 
-## 🔧 Installation
+## Installation
 
 1. **Clone the repository**  
    ```bash
